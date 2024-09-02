@@ -20,6 +20,8 @@ I'm Benjamin, an aspiring web developer. I mainly focus on JavaScript and React 
 - [x]  ~~Day 1 done~~
 - [ ]  2 months and 29 days remaining
 
+## Mountainbike
+
 ![Mountainbike](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY4N25tcTJ0dWp3cjg0OXFicm02MjlnNWJpYW91dzN0dHYyN3U1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pm3sJmQqvApgGVMyQJ/giphy.gif)
 
 <!--
