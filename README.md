@@ -1,28 +1,16 @@
 # Hi there 👋
 
-I'm Benjamin, an aspiring web developer. I mainly focus on JavaScript and React combined with HTML and CSS. When I'm not coding, I enjoy mountain biking in my spare time.
+I'm Benjamin, an aspiring web developer based in Heilbronn. I mainly focus on JavaScript and React combined with HTML and CSS. Currently I'm attending the Web Development Bootcamp at [neue fische](https://www.neuefische.de/bootcamp/web-development). When I'm not coding, I enjoy [riding](https://giphy.com/gifs/redbull-landscpae-landescape-land-escape-9G59zLRR0GUFIwTJ7V) my bike in my spare time.
 
-## Technologies & Tools
+## Technologies I use
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
-## Daily dev quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## Progress
-
-- [x]  ~~Day 1 done~~
-- [ ]  2 months and 29 days remaining
-
-## Mountainbike
-
-![Mountainbike](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY4N25tcTJ0dWp3cjg0OXFicm02MjlnNWJpYW91dzN0dHYyN3U1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pm3sJmQqvApgGVMyQJ/giphy.gif)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 
 <!--
 **benjaminpfleghaar/benjaminpfleghaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
