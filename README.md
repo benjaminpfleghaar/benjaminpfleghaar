@@ -2,7 +2,7 @@
 
 I'm Benjamin, an aspiring web developer. I mainly focus on JavaScript and React combined with HTML and CSS. When I'm not coding, I enjoy mountain biking in my spare time.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=benjaminpfleghaar&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=137073115&left_color=green&right_color=red)
 
 <!--
 **benjaminpfleghaar/benjaminpfleghaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
