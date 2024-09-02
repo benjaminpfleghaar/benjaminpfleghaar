@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm Benjamin, an aspiring web developer. I mainly focus on JavaScript and React combined with HTML and CSS. When I'm not coding, I enjoy mountain biking in my spare time.
 
 <!--
 **benjaminpfleghaar/benjaminpfleghaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
