@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Benjamin, an aspiring web developer based in Heilbronn. I mainly focus on JavaScript and React combined with HTML and CSS. Currently I'm attending the Web Development Bootcamp at [neue fische](https://www.neuefische.de/bootcamp/web-development). When I'm not coding, I enjoy [riding](https://giphy.com/gifs/redbull-landscpae-landescape-land-escape-9G59zLRR0GUFIwTJ7V) my bike in my spare time.
+I'm Benjamin, an aspiring web developer based in Heilbronn. I mainly focus on JavaScript and React combined with HTML and CSS. Currently I'm attending the Web Development Bootcamp [@neuefische](https://www.neuefische.de/bootcamp/web-development). When I'm not coding, I enjoy [riding](https://giphy.com/gifs/redbull-landscpae-landescape-land-escape-9G59zLRR0GUFIwTJ7V) my bike in my spare time.
 
 ## Technologies I use
 
