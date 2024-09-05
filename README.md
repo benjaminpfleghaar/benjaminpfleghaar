@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Benjamin, User Experience Consultant and Interaction Designer with +8 years of experience, currently on a mission to become a Software Developer [@neuefische](https://www.neuefische.de/bootcamp/web-development). When I'm not coding, I love spending time in nature on my bike.
+I'm Benjamin, User Experience Consultant and Interaction Designer with +8 years of experience, currently on a mission to become a Software Developer [@neuefische](https://www.neuefische.de/bootcamp/web-development). When I'm not coding, I love spending time in outside on my bike.
 
 ## Technologies & Skills
 
