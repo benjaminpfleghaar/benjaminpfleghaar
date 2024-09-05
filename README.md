@@ -1,16 +1,33 @@
 # Hi there 👋
 
-I'm Benjamin, an aspiring web developer based in Heilbronn. I mainly focus on JavaScript and React combined with HTML and CSS. Currently I'm attending the Web Development Bootcamp [@neuefische](https://www.neuefische.de/bootcamp/web-development). When I'm not coding, I enjoy [riding](https://giphy.com/gifs/redbull-landscpae-landescape-land-escape-9G59zLRR0GUFIwTJ7V) my bike in my spare time.
+I'm Benjamin, User Experience Consultant and Interaction Designer with +8 years of experience currently on a mission to become a Software Developer [@neuefische](https://www.neuefische.de/bootcamp/web-development). When I'm not coding, I love spending time in nature on my bike.
 
-## Technologies I use
+## Technologies & Skills
+
+### Code
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+
+### Tools
+
+![Adobe](https://img.shields.io/badge/-Adobe-black?style=flat-square&logo=adobe)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Miro](https://img.shields.io/badge/-Miro-black?style=flat-square&logo=miro)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-black?style=flat-square&logo=openai)
+
+## Passionate about
+
+-   🎧 Music
+-   🏔️ Nature
+-   ☕️ Coffee
+-   🚴 Bikes
 
 <!--
 **benjaminpfleghaar/benjaminpfleghaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
