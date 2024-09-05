@@ -29,6 +29,10 @@ I'm Benjamin, User Experience Consultant and Interaction Designer with +8 years 
 -   ☕️ Coffee
 -   🚴 Bikes
 
+## Let's get in touch
+
+[<img src="https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/benjaminpfleghaar/)
+
 <!--
 **benjaminpfleghaar/benjaminpfleghaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
