@@ -7,7 +7,6 @@ I'm Benjamin, User Experience Consultant and Interaction Designer with +8 years 
 ### Code
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
@@ -17,6 +16,7 @@ I'm Benjamin, User Experience Consultant and Interaction Designer with +8 years 
 
 ### Tools
 
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Adobe](https://img.shields.io/badge/-Adobe-black?style=flat-square&logo=adobe)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Miro](https://img.shields.io/badge/-Miro-black?style=flat-square&logo=miro)
