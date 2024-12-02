@@ -1,16 +1,31 @@
-## Hi there 👋
+## ✌️ Hi, I'm Benjamin
 
-<!--
-**benjaminpfleghaar/benjaminpfleghaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer with a strong background in UX Design.**
 
-Here are some ideas to get you started:
+I started out as a web developer but quickly fell in love with UX design, spending the past 8 years with major companies building intuitive, functional products. Now I'm on a mission to combine my design experience with my passion for writing clean, efficient code. This gives me the opportunity to work in a way that takes full advantage of both my design and development skills. When I’m not coding, you’ll find me enjoying a great cup of coffee or hitting the trails on my Santa Cruz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stack
+I’m always exploring new tools and technologies. Currently, I’m working with:
+
+**Code**
+
+`Git`
+`React`
+`Next.js`
+`HTML`
+`SASS`
+`CSS`
+`TypeScript`
+`JavaScript`
+
+
+
+**Tools**
+
+`Miro`
+`Figma`
+`GitHub`
+`ChatGPT`
+`Adobe`
+`Slack`
+`VSC`
