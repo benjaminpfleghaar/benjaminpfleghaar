@@ -7,12 +7,11 @@ Web Developer with a strong background in UX Design. Open to new projects starti
 `Git`
 `React`
 `Next.js`
-`HTML`
-`SASS`
-`CSS`
-`Tailwind`
 `TypeScript`
 `JavaScript`
+`Tailwind`
+`HTML`
+`CSS`
 
 ## Tools
 
@@ -20,6 +19,6 @@ Web Developer with a strong background in UX Design. Open to new projects starti
 `Figma`
 `GitHub`
 `ChatGPT`
-`Adobe`
+`Vercel`
 `Slack`
 `VSC`
