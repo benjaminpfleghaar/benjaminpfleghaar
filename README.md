@@ -8,10 +8,10 @@ Web Developer with a strong background in UX Design. Open to new projects starti
 `React`
 `Next.js`
 `TypeScript`
-`JavaScript`
 `Tailwind`
 `HTML`
 `CSS`
+`JS`
 
 ## Tools
 
