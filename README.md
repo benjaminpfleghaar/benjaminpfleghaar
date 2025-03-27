@@ -2,7 +2,7 @@
 
 Web Developer with a strong background in UX Design. Currently on a mission to combine my design experience with my passion for writing clean, efficient code.
 
-<a href="https://www.linkedin.com/in/benjaminpfleghaar" target="_blank">
+<a href="https://www.linkedin.com/in/benjaminpfleghaar">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/dark/linkedin.svg" type="image/svg+xml">
         <img alt="LinkedIn" src="assets/light/linkedin.svg">
@@ -16,7 +16,7 @@ Web Developer with a strong background in UX Design. Currently on a mission to c
     </picture>
 </a>
 
-<a href="https://www.benjaminpfleghaar.com" target="_blank">
+<a href="https://www.benjaminpfleghaar.com">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/dark/website.svg" type="image/svg+xml">
         <img alt="benjaminpfleghaar.com" src="assets/light/website.svg">
