@@ -16,7 +16,7 @@ Web Developer with a strong background in UX Design. Currently on a mission to c
     </picture>
 </a>
 
-<a href="https://info@benjaminpfleghaar.com" target="_blank">
+<a href="https://www.benjaminpfleghaar.com" target="_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/dark/website.svg" type="image/svg+xml">
         <img alt="benjaminpfleghaar.com" src="assets/light/website.svg">
