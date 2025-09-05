@@ -8,12 +8,14 @@ For the past decade I've worked as a UX Designer with major companies building i
         <img alt="LinkedIn" src="assets/light/linkedin.svg">
     </picture>
 </a>
+&emsp;
 <a href="mailto:info@benjaminpfleghaar.com">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/dark/mail.svg" type="image/svg+xml">
         <img alt="Mail" src="assets/light/mail.svg">
     </picture>
 </a>
+&emsp;
 <a href="https://www.benjaminpfleghaar.com">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/dark/website.svg" type="image/svg+xml">
